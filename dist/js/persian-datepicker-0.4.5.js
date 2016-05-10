@@ -186,7 +186,7 @@ var ClassConfig = {
      */
     destroy: function () {
         this.inputElem.removeClass(self.cssClass);
-        this.elmenet.main.remove();
+        this.element.main.remove();
     },
 
 
